@@ -28,6 +28,8 @@
         "react/react-in-jsx-scope":"off",
         "comma-dangle":"off",
         "react/jsx-one-expression-per-line":"off",
-        "react/no-array-index-key":"off"
+        "react/no-array-index-key":"off",
+        "max-len":"off",
+        "object-curly-newline":"off"
     }
 }
